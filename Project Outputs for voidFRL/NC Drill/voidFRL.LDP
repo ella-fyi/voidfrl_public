@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\voidfrl\voidfrl_public\voidFRL.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=voidfrl-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=voidfrl-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=voidfrl-roundholes-nonplated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [voidFRL.PcbDoc]
+   Generated File[voidFRL-RoundHoles-Plated.TXT]
+   Generated File[voidFRL-RoundHoles-NonPlated.TXT]
+   Generated File[voidFRL-SlotHoles-Plated.TXT]
+   Generated File[voidFRL.DRL]
+   Generated File[voidFRL.LDP]
+   Generated File[voidFRL.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 8:00:57 PM On 2/10/2022

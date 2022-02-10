@@ -1,0 +1,86 @@
+*************************************************************
+FileName = bottom_plate.GBR
+AutoAperture = True
+*************************************************************
+Generating : F.Cu
+      File : bottom_plate_Copper_Signal_Top.gbr
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : bottom_plate_Copper_Signal_Bot.gbr
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : bottom_plate_Soldermask_Bot.gbr
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : bottom_plate_Soldermask_Top.gbr
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : bottom_plate_Profile.gbr
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : bottom_plate_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : bottom_plate_PTH_Drill.gbr
+
+
+Used DCodes :
+    D14
+*************************************************************
+

@@ -1,0 +1,2 @@
+Change Room Name: Old Name=sch_solder New Name=bottom_plate
+Change Room Scope: Old Scope=InComponentClass('sch_solder') New Scope=InComponentClass('bottom_plate')

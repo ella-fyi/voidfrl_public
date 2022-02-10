@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: voidFRL.PcbDoc   2/10/2022  8:00:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : F.Cu to B.Cu
+ASCII Plated RoundHoles File : voidFRL-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : voidFRL-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : voidFRL-SlotHoles-Plated.TXT
+EIA File   : voidFRL.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             42        PTH        22.44inch (569.88mm)
+T2      16mil (0.4mm)                                             Round             16        PTH        0.52inch (13.25mm)
+T3      24mil (0.6mm)                                             Round             2         PTH        0.06inch (1.50mm)
+T4      24mil (0.6mm)                                             Slot              4         PTH        1.42inch (36.16mm)
+T5      28mil (0.7mm)                                             Round             16        PTH        5.76inch (146.19mm)
+T6      30mil (0.762mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T7      32mil (0.8mm)                                             Round             174       PTH        36.46inch (926.03mm)
+T8      35mil (0.9mm)                                             Round             42        PTH        11.10inch (281.84mm)
+T9      39mil (1mm)                                               Round             10        PTH        15.59inch (395.99mm)
+T10     40mil (1.016mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T11     43mil (1.1mm)                                             Round             8         PTH        1.42inch (36.03mm)
+T12     59mil (1.499mm)                                           Round             184       PTH        91.33inch (2319.75mm)
+T13     59mil (1.5mm)                                             Slot              4         PTH        30.53inch (775.42mm)
+T14     89mil (2.261mm)                                           Round             15        PTH        60.30inch (1531.67mm)
+T15     67mil (1.702mm)                                           Round             182       NPTH       93.20inch (2367.24mm)
+T16     120mil (3.048mm)                                          Round             14        NPTH       16.37inch (415.70mm)
+T17     157mil (3.988mm)                                          Round             106       NPTH       80.92inch (2055.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              829
+
+Total Processing Time (hh:mm:ss) : 00:00:01

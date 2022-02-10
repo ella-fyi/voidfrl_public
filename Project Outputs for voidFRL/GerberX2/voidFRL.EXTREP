@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: voidFRL.GBR   2/10/2022  8:00:52 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                F.Cu                                    
+.gbr                B.Cu                                    
+.gbr                B.SilkS                                 
+.gbr                B.Mask                                  
+.gbr                F.SilkS                                 
+.gbr                F.Mask                                  
+.gbr                Edge.Cuts                               
+.gbr                F.CrtYd                                 
+.gbr                Dwgs.User                               
+.gbr                Margin                                  
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
